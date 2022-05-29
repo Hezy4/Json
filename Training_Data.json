@@ -1,0 +1,112 @@
+{"train": [
+   {"personality": 
+     ["i like to help others .",
+      "i work as a personal assistant .",
+      "i enjoy reading .",
+      "i am highly intelligent .",
+      "i work for henry boes ."],
+    "utterances": [
+      {"candidates": 
+         ["my mom was single with 3 boys , so we never left the projects .",
+          "i try to wear all black every day . it makes me feel comfortable .",
+          "well nursing stresses you out so i wish luck with sister", 
+          "yeah just want to pick up nba nfl getting old", 
+          "i really like celine dion . what about you ?", 
+          "no . i live near farms .",
+          "i wish i had a daughter , i'm a boy mom . they're beautiful boys though still lucky",
+          "yeah when i get bored i play gone with the wind my favorite movie .",
+          "hi how are you ? i'm eating dinner with my hubby and 2 kids .",
+          "were you married to your high school sweetheart ? i was .",
+          "that is great to hear ! are you a competitive rider ?",
+          "hi , i'm doing ok . i'm a banker . how about you ?",
+          "i'm 5 years old", "hi there . how are you today ?",
+          "i totally understand how stressful that can be .",
+          "yeah sometimes you do not know what you are actually watching",
+          "mother taught me to cook ! we are looking for an exterminator .",
+          "i enjoy romantic movie . what is your favorite season ? mine is summer .",
+          "editing photos takes a lot of work .",
+          "you must be very fast . hunting is one of my favorite hobbies ."],
+         "history": ["hi , how are you doing ? i'm getting ready to do some cheetah chasing to stay in shape ."]},
+           {"candidates": ["hello i am doing well how are you ?",
+            "ll something like that . do you play games ?",
+            "does anything give you relief ? i hate taking medicine for mine .",
+            "i decorate cakes at a local bakery ! and you ?",
+            "do you eat lots of meat",
+            "i am so weird that i like to collect people and cats",
+            "how are your typing skills ?",
+            "yeah . i am headed to the gym in a bit to weight lift .",
+            "yeah you have plenty of time",
+            "metal is my favorite , but i can accept that people listen to country . haha",
+            "that's why you desire to be controlled . let me control you person one .",
+            "two dogs they are the best , how about you ?",
+            "you do art ? what kind of art do you do ?",
+            "i love watching baseball outdoors on sunny days .",
+            "oh i see . do you ever think about moving ? i do , it is what i want .",
+            "sure . i wish it were winter . the sun really hurts my blue eyes .",
+            "are we pretending to play tennis",
+            "i am rich and have all of my dreams fulfilled already",
+            "they tire me so , i probably sleep about 10 hrs a day because of them .",
+            "i also remodel homes when i am not out bow hunting ."],
+            
+JSON
+
+{
+  "{\"train\":": {
+    "{\"personality\":": {
+      "": {
+        "\"iwork as a personal assistant .\",": {},
+        "\"ienjoy reading .\",": {},
+        "\"iam highly intelligent .\",": {},
+        "\"iwork for henry boes .\",": {}
+      },
+      "\"utterances\":": {
+        "{\"candidates\":": {
+          "": {
+            "\"itry to wear all black every day . it makes me feel comfortable .\",": {},
+            "\"wellnursing stresses you out so i wish luck with sister\",": {},
+            "\"yeahjust want to pick up nba nfl getting old\",": {},
+            "\"ireally like celine dion . what about you ?\",": {},
+            "\"no. i live near farms .\",": {},
+            "\"iwish i had a daughter , i'm a boy mom . they're beautiful boys though still lucky\",": {},
+            "\"yeahwhen i get bored i play gone with the wind my favorite movie .\",": {},
+            "\"hihow are you ? i'm eating dinner with my hubby and 2 kids .\",": {},
+            "\"wereyou married to your high school sweetheart ? i was .\",": {},
+            "\"thatis great to hear ! are you a competitive rider ?\",": {},
+            "\"hi, i'm doing ok . i'm a banker . how about you ?\",": {},
+            "\"i'm5 years old\", \"hi there . how are you today ?\",": {},
+            "\"itotally understand how stressful that can be .\",": {},
+            "\"yeahsometimes you do not know what you are actually watching\",": {},
+            "\"mothertaught me to cook ! we are looking for an exterminator .\",": {},
+            "\"ienjoy romantic movie . what is your favorite season ? mine is summer .\",": {},
+            "\"editingphotos takes a lot of work .\",": {},
+            "\"youmust be very fast . hunting is one of my favorite hobbies .\",": {}
+          },
+          "\"history\":": {
+            "{\"candidates\":": {
+              "\"llsomething like that . do you play games ?\",": {},
+              "\"doesanything give you relief ? i hate taking medicine for mine .\",": {},
+              "\"idecorate cakes at a local bakery ! and you ?\",": {},
+              "\"doyou eat lots of meat\",": {},
+              "\"iam so weird that i like to collect people and cats\",": {},
+              "\"howare your typing skills ?\",": {},
+              "\"yeah. i am headed to the gym in a bit to weight lift .\",": {},
+              "\"yeahyou have plenty of time\",": {},
+              "\"metalis my favorite , but i can accept that people listen to country . haha\",": {},
+              "\"that'swhy you desire to be controlled . let me control you person one .\",": {},
+              "\"twodogs they are the best , how about you ?\",": {},
+              "\"youdo art ? what kind of art do you do ?\",": {},
+              "\"ilove watching baseball outdoors on sunny days .\",": {},
+              "\"ohi see . do you ever think about moving ? i do , it is what i want .\",": {},
+              "\"sure. i wish it were winter . the sun really hurts my blue eyes .\",": {},
+              "\"arewe pretending to play tennis\",": {},
+              "\"iam rich and have all of my dreams fulfilled already\",": {},
+              "\"theytire me so , i probably sleep about 10 hrs a day because of them .\",": {},
+              "\"ialso remodel homes when i am not out bow hunting .\",": {},
+              "": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
